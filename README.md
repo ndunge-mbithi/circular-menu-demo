@@ -130,6 +130,9 @@ flutter run
 - GestureDetector
 
 ---
+SCREENSHOT OF DEMO
+
+<img width="356" height="733" alt="Screenshot 2026-06-30 at 9 24 55 am" src="https://github.com/user-attachments/assets/9faf8627-0d6d-4acc-9fe5-9ead262fe8f9" />
 
 ## Author
 Ndunge Mutheu Mbithi
