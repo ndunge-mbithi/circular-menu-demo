@@ -1,4 +1,3 @@
-# circular_menu_demo
 
 # Circular Menu Demo
 
