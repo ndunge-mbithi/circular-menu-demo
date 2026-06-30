@@ -53,7 +53,7 @@ class _NoteEditorPageState extends State<NoteEditorPage>
 
     // PROPERTY 2: animationDuration
     // Controls how long the fan-out animation takes.
-    // 400ms feels smooth — try 1500ms to watch it in slow motion.
+  
     _controller = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 400),
@@ -130,9 +130,9 @@ class _NoteEditorPageState extends State<NoteEditorPage>
               ),
             ),
 
-          // ═══════════════════════════════════════════
+          
           // CIRCULAR MENU — built with AnimatedBuilder
-          // ═══════════════════════════════════════════
+          
           AnimatedBuilder(
             animation: _controller,
             builder: (context, child) {
@@ -148,7 +148,7 @@ class _NoteEditorPageState extends State<NoteEditorPage>
                     // Spread items evenly in a half circle above the button
                     // PROPERTY 1: radius
                     // How far each item sits from the centre button.
-                    // Change 110 to 60 (tight) or 160 (very wide).
+                    
                     const double radius = 110;
 
                     final double startAngle = -pi;
