@@ -84,12 +84,6 @@ Controls how much the plus icon rotates when the menu opens.
 
 ---
 
-## Screenshot
-
-![Circular Menu Demo](assets/screenshot.png)
-
----
-
 ## How to Run
 
 1. Clone this repository.
